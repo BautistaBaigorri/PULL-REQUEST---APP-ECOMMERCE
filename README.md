@@ -1,108 +1,51 @@
-# PF-ECOMMERCE
+# 📌 PULL REQUEST - ECOMMERCE 💻
+### La app es un ecommerce de productos tecnologicos, dichos productos son perifericos y componentes de PC. Se planteó esta idea para facilitarle al cliente el alcance de todo lo que requiere para trabajar o jugar en una misma pagina.
 
+## Un proyecto realizado en equipo por 7 estudiantes de Henry
 
-ECOMMERCE DE PERIFERICOS DE COMPUTACION
+* #### Agustín Lens
+* #### Leonel Robledo
+* #### Bautista Baigorri
+* #### Isaías Robles
+* #### Marcos Laurens
+* #### Julia Parlavecchio
+* #### Erica Romero
 
+## Enunciado de la aplicación a desarrollar:
+#### El proyecto consiste en un e-commerce de productos tecnológicos, más específicamente, periféricos de computación.
 
+#### El usuario podrá recorrer la página sin necesidad de registrarse, requisito que solo será necesario si desea agregar productos a su carrito de compras.
 
+#### En el registro de usuario, se permitirá utilizar cuentas de e-mail y se requerirá un nombre de usuario y contraseña.
 
-Un proyecto realizado en equipo por 7 estudiantes de Henry
+#### El usuario podrá agregar productos al carrito (sólo cuando esté registrado) y al momento de confirmar la compra, se le solicitarán los datos necesarios para efectuar la transacción, seleccionando el método de pago, forma de envío, etc., guardándose su perfil y demás datos para poder remitirle la factura correspondiente.
 
-Integrantes:
+#### En cuanto al rol del administrador, este podrá publicar nuevos productos, dar de baja, reponer stock, actualizar precios, entre otros.
 
-Agustín Lens
+* #### Landing:
 
-Leonel Robledo
+![landing](https://user-images.githubusercontent.com/103950921/189980762-0a2dea6c-4b91-42fc-b43d-64fd0fdf042a.png)
 
-Bautista Baigorri
+* #### Home:
 
-Isaías Robles
+![productos](https://user-images.githubusercontent.com/103950921/189981013-3134d6f1-810c-44e3-b96a-b8a188ca0972.png)
 
-Marcos Laurens
+* #### Detail:
 
-Julia Parlavecchio
+![Screenshot_1](https://user-images.githubusercontent.com/103950921/189981457-4de7512d-13a6-42e4-ae96-e2be9c4a265b.png)
 
-Erica Romero
+* #### Cart:
 
+![carrito](https://user-images.githubusercontent.com/103950921/189981645-d2d66aa0-a76f-495c-ab5f-30b9265d27fe.png)
 
+### Para ver más 👇:
 
-
- Enunciado de la aplicación a desarrollar:
-El proyecto consiste en un e-commerce de productos tecnológicos, más
-específicamente, periféricos de computación.
-
-El usuario podrá recorrer la página sin necesidad de registrarse, requisito que
-solo será necesario si desea agregar productos a su carrito de compras.
-
-En el registro de usuario, se permitirá utilizar cuentas de e-mail y se requerirá
-un nombre de usuario y contraseña.
-
-El usuario podrá agregar productos al carrito (sólo cuando esté registrado)
-y al momento de confirmar la compra, se le solicitarán los datos necesarios para
-efectuar la transacción, seleccionando el método de pago, forma de
-envío, etc., guardándose su perfil y demás datos para poder remitirle la factura
-correspondiente.
-
-En cuanto al rol del administrador, este podrá publicar nuevos productos,
-dar de baja, reponer stock, actualizar precios, entre otros.
-
-
-
-
-
- Definición de US:
-• Autenticación:
-Como usuario puedo registrarme en el sitio para efectuar una compra.
-
-• Productos a la venta:
-Como usuario puedo ver los artículos, filtrarlos según la categoría y
-ordenarlos por precio y marca.
-
-• Carrito de compra:
-Como usuario puedo añadir o quitar artículos a mi carrito para poder realizar
-una compra.
-
-• Formulario de pago:
-Como usuario puedo llenar un formulario con datos pertinentes del envío
-para recibir una factura de mi compra.
-
-• Función del administrador:
-Como administrador puedo mantener el sitio web funcionando
-correctamente, realizando ABM de los productos y controlando el stock de los
-mismos.
-
-
-Priorización:
-Easy Wins
-1. Crear los modelos.
-
-2. Crear las rutas que van a mostrar los productos.
-
-3. Crear las plantillas.
-
-4. Cierre de sesión.
-
-
-Strategic initiatives
-1. Autenticación de usuario para inicio de sesión.
-
-2. Registro de usuario.
-
-3. Pasarela de pagos.
-
-4. Agregar o quitar productos al carrito de compras.
-
-5. Formulario de facturación.
-
-
-
-Worth pursuing
-1. Búsqueda por nombre del producto.
-
-2. Paginación.
-
-3. Crear las rutas para el ABM de los productos.
-
-
-Deprioritize
-5. Filtrados y ordenamientos de los productos.
+<a href="https://pf-ecommerce-iota.vercel.app/" fontSize="34">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
+      PULL REQUEST (Deploy)
+</a>
+</br></br>
+<a href="https://github.com/BautistaBaigorri/PULL-REQUEST---APP-ECOMMERCE">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
+      Link a repo
+</a>
