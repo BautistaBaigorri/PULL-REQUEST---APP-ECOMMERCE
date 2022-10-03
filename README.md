@@ -1,6 +1,7 @@
 # 📌 PULL REQUEST - ECOMMERCE 💻
-### La app es un ecommerce de productos tecnologicos, dichos productos son perifericos y componentes de PC. Se planteó esta idea para facilitarle al cliente el alcance de todo lo que requiere para trabajar o jugar en una misma pagina.
+### La app es un ecommerce de productos tecnologicos, dichos productos son perifericos y componentes de PC. Se planteó esta idea para facilitarle al cliente el alcance de todo lo que requiere para trabajar o jugar en una misma pagina. <br>
 
+###  🚀 Tecnologías: Javascript | React | Redux | Bootstrap | Material UI | NodeJS | Express | Sequelize | PostgreSQL | Auth0 | Cloudinary | Node Mailer | Paypal API | Google Maps API | SCRUM
 ## Un proyecto realizado en equipo por 7 estudiantes de Henry
 
 * #### Agustín Lens
